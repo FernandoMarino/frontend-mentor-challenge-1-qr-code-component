@@ -14,7 +14,6 @@ Frontend Mentor challenges help you improve your coding skills by building reali
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -25,7 +24,7 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 
 ### Links
 
-- Solution URL: [Solution URL here](https://your-solution-url.com)
+- Solution URL: [HTML & CSS Solution](https://github.com/FernandoMarino/frontend-mentor-challenge-1-qr-code-component)
 
 ## My process
 
@@ -36,45 +35,27 @@ Frontend Mentor challenges help you improve your coding skills by building reali
   - Added proper class name to each section
 - CSS custom properties
   - Added styles based on each elements
-- Flexbox
+- Flex
 - Mobile-first workflow
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+This was my first full experience designing and implementing without 100% alone, without following any tutorial and just researching as needed. 
+<p>
+This project was a great opportunity the fully enbrance and start the journey as a FullStack Engineer.
 
-To see how you can add code snippets, see below:
+<p>Still need to practice more to design these kind of components faster and also to design it on my own.
 
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-
-```css
-.proud-of-this-css {
-	color: papayawhip;
-}
-```
-
-```js
-const proudOfThisFunc = () => {
-	console.log('🎉');
-};
-```
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+<p> Implement the same component using different approaches, like full SPA using React or even using some framework like Next.js.
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
+<p> A big area of improvement is learning hot to proper document my development process during the implementation and not let all the wording to the end as it may not be that fresh anymore and a few details got be missing. 
 
 ### Useful resources
 
+- [The Markdown Guide](https://www.markdownguide.org/) - As suggested on the README-template, I have used as a reference to structurize this README and will certainly use as a documentatin guide for future projects.
 - [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
 - [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
 
@@ -84,10 +65,3 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 - Frontend Mentor - [@FernandoMarino](https://www.frontendmentor.io/profile/FernandoMarino)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
-
-## Acknowledgments
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
